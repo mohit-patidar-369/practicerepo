@@ -1,0 +1,27 @@
+git index 
+
+1.indroduction
+2.git vs github
+3.install git 
+4.lgnoring :  file using .gitignore (jo file git par nahi daalani use .gitignore mai daal do secure)
+5.Tracking empty directories (usually git empty directories ko track nahi karata hai but agr hume fir bhi track karawana hai abhi hi baad mai usame khuch rakhana hai to usake andar .gitkeep type kar do)
+6.Branching 
+7.merge conflict
+8.stashing in git : (jab bhai agar bhi mai hame khuch suddenly change karana hu aur hum abhi files mai khuch new work kar rahe hai aur hamara code ya work pura nahi hua hai hume abhi use commit nahi karana abhi aur beech mai emergency mai khuch changes karake commit karana hai to hum abhi to work kar rahe hai unhe mai stash mai daal dge mtlb temproraly store)
+
+
+
+
+
+commands
+1.git add .
+2. git status
+3. git log --oneline
+4. git log --oneline --graph 
+5. git commit -m ""
+6.git merge ""
+7. git branch 
+8. git checkout "version id jis bhi version par jana hu "
+9. git switch -c "new branch name "(ek hi command mai create branch aur us branch mai switch bhi )
+10.git branch -d "name"(delete branch)
+11.git stash and after it git slash pop
