@@ -1,1 +1,4 @@
+ 
 hy merge confilt
+
+git slash (new topic) 
